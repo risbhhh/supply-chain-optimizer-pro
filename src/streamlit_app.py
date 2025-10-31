@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-from src.inventory import inventory_recommendation
+from inventory import inventory_recommendation
 
 st.set_page_config(page_title='Supply Chain Optimizer')
 st.title('Supply Chain Optimizer - Demo')
