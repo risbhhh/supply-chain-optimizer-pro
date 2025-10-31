@@ -1,0 +1,5 @@
+location_id,item_id,quantity
+WH-A,SKU-1,500
+WH-A,SKU-2,300
+WH-B,SKU-1,200
+WH-B,SKU-3,150
